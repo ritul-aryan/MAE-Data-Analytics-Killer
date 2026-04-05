@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "axios": "^1.14.0",
+    "plotly.js": "^3.4.0",
+    "react-plotly.js": "^2.6.0"
+  },
+  "devDependencies": {
+    "@types/react-plotly.js": "^2.6.4"
+  }
+}
